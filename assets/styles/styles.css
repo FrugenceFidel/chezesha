@@ -474,7 +474,7 @@ img {
 @media (min-width: 768px) {
 
 .large-hero {
-    background: url(/assets/images/main.jpg) center  30%  no-repeat
+    background: url(../images/main.jpg) center  30%  no-repeat
 }
   }
 
@@ -814,7 +814,7 @@ img {
 @media (min-width: 768px) {
 
 .report {
-    background: url(/assets/images/graph.jpg) center 35% no-repeat;
+    background: url(../images/graph.jpg) center 35% no-repeat;
     padding: 60px 0 150px
 
 }
